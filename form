@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <title>Final Project Contact</title>
+
+    <meta charset=“utf-8>
+
+    <meta name="description" content="Design professional-looking scrapbook pages 
+    without the hassle. Our form guides you through the process, step by step.">
+
+    <link rel="stylesheet" href="Style.css">
+
+</head>
+<h1>
+    Debby's scrapbooking
+</h1>
+<body>
+    <nav>
+        <ul>
+            <li><a class="button" href="index.html">Home&nbsp;</a></li>
+
+            <li><a class="button" href="Pricing.html">Pricing&nbsp;</a></li>
+
+            <li><a class="button" href="gallery.html">Gallery&nbsp;</a></li>
+
+            <li><a class="button" href="contact.html">Contact Us&nbsp;</a></li>
+
+            <li><a class="button" href="AboutUS.html">About Us&nbsp;</a></li>
+
+            <li><a class="button" href="Custom.html">Custom Layouts&nbsp;</a></li>
+
+        </ul>
+    </nav>
+    
+       <h2>
+        Thamk you for reaching out, we will contact you shortly.
+       </h2>
+    
+    <div>
+        <p>
+            
+        </p>
+    </div>
+    <div>
+        <footer>
+
+            <small><I>Copyright &#169 2024 Debby's Scrapbooking</I></small>
+            <br>
+            <a href="mailto:ajones64@my.westga.edu">ajones64@my.westga.edu</a>
+        </footer>
+    </div>
+</body>
+</html>
